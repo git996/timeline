@@ -1,0 +1,66 @@
+body{
+
+    margin:1px;
+    margin-top:2px; 
+  
+    overflow:scroll;
+
+
+    
+}
+body .ui.buttons{
+    width:100%;
+}
+#main-content{
+  margin:auto;
+  min-height:50%;
+  overflow-x:hidden;
+  min-width:900px;
+    background-color:#ebebeb;
+}
+#main-content1{
+  margin:auto;
+  margin-top:20px;
+  height:20%;
+
+  background-color:#ebebeb;
+  overflow:auto;
+}
+h1{
+  
+  width:100%;
+    
+}
+
+
+
+#chart1{
+    margin-left:20px;
+    max-width:98%;
+     min-width:98%;
+    height:400px;
+    float:left;
+    max-width:98%;
+   
+    overflow:hidden;
+
+
+}
+#stat-module{
+    margin-left:-2px;
+position:sticky;
+
+   background-color:rgba(0, 0, 0, 0.14);
+    
+   
+}
+#mySteps{
+ 
+    min-width:500px%;
+    width:100%;
+     
+   
+  
+    
+   
+}
